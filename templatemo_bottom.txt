@@ -1,0 +1,45 @@
+﻿ <div class="col_4">
+        	<h5>Follow the Artist</h5>
+            <ul class="footer_link">
+            	<li><a href="https://twitter.com/pazaresosset" class="twitter-follow-button" data-show-count="false" data-lang="es">Seguir a @pazaresosset</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
+                <li><div class="g-ytsubscribe" data-channel="pazaresosset" data-layout="full"></div></li>
+                <li><div class="g-plusone"></div></li>
+			</ul>
+        </div>
+        <div class="col_4">
+        	<h5>Share</h5>
+            <ul class="footer_link">
+            	
+                <li> <div class="fb-like" data-href="http://www.pazaresosset.es" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true"></div></li>
+  
+<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://http://www.pazaresosset.es/" data-text="I truly recommend you visit Paz Arés Osset artistic webpage and blog, www.pazaresosset.es" data-via="Lights_of_NYC" data-lang="es" data-related="Lights_of_NYC" data-hashtags="Art">TwitteArt</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
+</ul>
+<ul class="footer_link">
+        <h5>Free Communication</h5>
+                      <li><script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div id="SkypeButton_Chat_pazaresosset_1">
+  <script type="text/javascript">
+    Skype.ui({
+      "name": "chat",
+      "element": "SkypeButton_Chat_pazaresosset_1",
+      "participants": ["pazaresosset"],
+      "imageSize": 32
+    });
+  </script>
+</div></li>        
+			</ul>
+        </div>
+        	<div class="col_4 col_l rmc">
+        	<h5>Official Sites</h5>
+            <ul class="footer_link">
+            	<li><a href="https://www.facebook.com/pages/Paz-Arés-Osset/152978754716152" class="facebook social">Facebook</a></li>
+                <li><a href="http://www.linkedin.com/pazaresosset/" class="linkedin social">Linkedin</a></li>
+                
+                <li><a href="http://www.youtube.com/user/pazaresosset" class="youtube social">Youtube</a></li>
+                <li><a href="http://blog.pazaresosset.es" class="blog social">Blog</a></li>
+			</ul>
+        </div>
+       
+ <div class="cleaner"></div>

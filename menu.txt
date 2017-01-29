@@ -1,0 +1,43 @@
+﻿ <!-- desde aquí lo pillas para automatizar-->
+    	<div id="site_title">
+        	<h1><a href="http://www.pazaresosset.es">Paz Arés Osset</a></h1> 
+        </div>
+        <div id="templatemo_menu" class="ddsmoothmenu">
+          <ul>
+              	<!--<li><a href="index.html" class="selected">Home</a></li>
+ -->          			<li><a href="theartist.html">The Artist</a>
+ 			<ul>
+                            <li><a href="biography.html">Biography</a></li> 
+                            <li><a href="friends.html">Friends</a></li>
+		            <li><a href="travelling.html">Relevant Travels</a></li>
+			    <li><a href="studies.html">Studies</a></li>
+                         </ul>
+                                 
+                </li>
+
+          	<li><a href="art.html">Art</a>    
+                    <ul>
+                    	<li><a href="portrait.html">Portrait</a></li>
+                        <li><a href="pastel.html">Pastel</a></li>
+                    	<li><a href="charcoal.html">Charcoal</a></li>
+                        <li><a href="engraving.html">Engraving</a></li>	
+                        <li><a href="Acrylic.html">Acrylic</a></li>	
+                     </ul>
+              	</li>
+
+                <li><a href="https://www.facebook.com/paz.aresosset">Portfolio</a>
+              	</li>
+              	                                              
+                <li><a href="http://blog.pazaresosset.es">Blog</a>
+			<ul>
+                    		<li><a href="http://aglimpseoflightintothedarkness.pazaresosset.es/">A Glimpse Of Light Into The Darkness</a></li>
+                        	<li><a href="http://blog.pazaresosset.es">Paz Arés Blog</a></li>
+              	   	</ul>
+		</li>
+
+                <li><a href="contact.html">Contact</a>
+            	</li>
+            </ul>
+            <br style="clear: left" />
+        </div> 
+        <!-- end of templatemo_menu -->
